@@ -1,0 +1,1 @@
+# kyma-subaccount-deletion
